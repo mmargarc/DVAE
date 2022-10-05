@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.18.7-gentoo-x86_64-x86_64-Intel-R-_Xeon-R-_CPU_E5-2640_v4_@_2.40GHz-with-glibc2.17",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-10-03T13:07:36.604945",
+    "startedAt": "2022-10-03T13:07:36.033731",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 4,
+    "cpu_count": 40,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "/export/gts_usuarios/mariamartinezga/GitHub/DVAE/pruebas_MNIST.py",
+    "codePath": "pruebas_MNIST.py",
+    "host": "alsvid.tsc.uc3m.es",
+    "username": "mariamartinezga",
+    "executable": "/export/usuarios01/mariamartinezga/miniconda3/envs/CVAE/bin/python"
+}

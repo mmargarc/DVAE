@@ -1,0 +1,21 @@
+
+ELBO loss after 0 epochs: -514.953527
+ELBO loss after 10 epochs: -204.265396
+ELBO loss after 20 epochs: -202.155678
+ELBO loss after 30 epochs: -196.504810
+ELBO loss after 40 epochs: -193.788044
+ELBO loss after 50 epochs: -192.849483
+ELBO loss after 60 epochs: -190.491666
+ELBO loss after 70 epochs: -184.505376
+ELBO loss after 80 epochs: -179.927747
+ELBO loss after 90 epochs: -177.413653
+ELBO loss after 100 epochs: -174.334090
+ELBO loss after 110 epochs: -171.586972
+ELBO loss after 120 epochs: -169.413548
+ELBO loss after 130 epochs: -168.298526
+ELBO loss after 140 epochs: -167.755386
+ELBO loss after 150 epochs: -167.813237
+ELBO loss after 160 epochs: -166.363254
+ELBO loss after 170 epochs: -165.972042
+ELBO loss after 180 epochs: -164.150176
+ELBO loss after 190 epochs: -163.592046
